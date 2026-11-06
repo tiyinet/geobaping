@@ -1,3 +1,19 @@
+# GEO霸屏系统 · 企业 AI 搜索曝光与 SEO 收录系统（Windows）
+
+**让企业内容进入百度/必应搜索与 AI 搜索结果 ｜ 内容生成 · 关键词布局 · 收录监测 · 霸屏投放**
+
+**SEO Tools · AI Search Visibility · Generative Engine Optimization**
+
+关键词：SEO推广系统、AI搜索优化、GEO优化、生成式引擎优化、企业SEO工具、霸屏推广、搜索引擎收录、数字营销软件、关键词排名工具。
+
+GEOBaping helps businesses get found on Baidu, Bing and AI search engines — content generation, keyword deployment, indexing monitoring and SERP domination, built for Chinese SMBs.
+
+下载最新版：Releases 页面
+
+---
+
+（以下为使用说明全文）
+
 GEO霸屏系统 · 使用说明
 版本 2.0.0  |  2026-10-27
 适用：Windows 10 / 11（64 位）  |  本说明覆盖整个「GEO霸屏系统」，含网页端与电脑客户端
