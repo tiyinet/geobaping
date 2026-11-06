@@ -8,7 +8,7 @@
 
 GEOBaping helps businesses get found on Baidu, Bing and AI search engines — content generation, keyword deployment, indexing monitoring and SERP domination, built for Chinese SMBs.
 
-下载最新版：Releases 页面
+下载最新版：Releases 页面｜官网：https://yaduoo.cn
 
 ---
 
